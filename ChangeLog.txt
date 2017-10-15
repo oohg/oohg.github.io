@@ -1,0 +1,24 @@
+/*
+ * $Id$
+ */
+
+/* Use this format for the entry headers:
+ * YYYY-MM-DD HH:MM UTC[-|+]hhmm Your Name or Username and/or <your_email@address>
+ * For example:
+ * 2002-12-01 23:12 UTC+0100 Foo Bar <foo.bar@foobar.org>
+ */
+
+2017-10-14 22:42 UTC-0300 Fernando Yurisich <fyurisich@oohg.org>
+   * index.html
+   + bm0.gif
+   + harbour-logo.jpg
+   + ChangeLog.txt
+   + oohg.ico
+   + .gitattributes
+
+2017-10-12 19:31 UTC-0300 Fernando Yurisich <fyurisich@oohg.org>
+   * index.html
+     + Link to repositories.
+
+2017-10-12 19:15 UTC-0300 Fernando Yurisich <fyurisich@oohg.org>
+   + index.html
