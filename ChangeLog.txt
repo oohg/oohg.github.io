@@ -8,6 +8,10 @@
  * 2002-12-01 23:12 UTC+0100 Foo Bar <foo.bar@foobar.org>
  */
 
+2017-10-16 08:41 UTC-0300 Fernando Yurisich <fyurisich@oohg.org>
+   * index.html
+     * Changed title.
+
 2017-10-15 21:22 UTC-0300 Fernando Yurisich <fyurisich@oohg.org>
    + core/.gitignore
 
