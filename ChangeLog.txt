@@ -8,32 +8,44 @@
  * 2002-12-01 23:12 UTC+0100 Foo Bar <foo.bar@foobar.org>
  */
 
+2018-05-01 10:27 UTC-0300 Fernando Yurisich <fyurisich@oohg.org>
+   * oohg.github.io\ChangeLog.txt
+     * Updated.
+
+2017-10-22 21:04 UTC-0300 Fernando Yurisich <fyurisich@oohg.org>
+   * oohg.github.io\index.html
+     * Changed link's description.
+
+2017-10-22 21:02 UTC-0300 Fernando Yurisich <fyurisich@oohg.org>
+   * oohg.github.io\index.html
+     * Link to online manual.
+
 2017-10-16 08:41 UTC-0300 Fernando Yurisich <fyurisich@oohg.org>
-   * index.html
+   * oohg.github.io\index.html
      * Changed title.
 
 2017-10-15 21:22 UTC-0300 Fernando Yurisich <fyurisich@oohg.org>
    + core/.gitignore
 
 2017-10-14 23:06 UTC-0300 Fernando Yurisich <fyurisich@oohg.org>
-   - bm0.gif
-   - harbour-logo.jpg
-   + harbour-2001.svg
+   - oohg.github.io\bm0.gif
+   - oohg.github.io\harbour-logo.jpg
+   + oohg.github.io\harbour-2001.svg
      ; Borrowed from https://harbour.github.io/
-   * index.html
+   * oohg.github.io\index.html
      * Changed layout.
 
 2017-10-14 22:42 UTC-0300 Fernando Yurisich <fyurisich@oohg.org>
-   * index.html
-   + bm0.gif
-   + harbour-logo.jpg
-   + ChangeLog.txt
-   + oohg.ico
-   + .gitattributes
+   * oohg.github.io\index.html
+   + oohg.github.io\bm0.gif
+   + oohg.github.io\harbour-logo.jpg
+   + oohg.github.io\ChangeLog.txt
+   + oohg.github.io\oohg.ico
+   + oohg.github.io\.gitattributes
 
 2017-10-12 19:31 UTC-0300 Fernando Yurisich <fyurisich@oohg.org>
-   * index.html
+   * oohg.github.io\index.html
      + Link to repositories.
 
 2017-10-12 19:15 UTC-0300 Fernando Yurisich <fyurisich@oohg.org>
-   + index.html
+   + oohg.github.io\index.html
