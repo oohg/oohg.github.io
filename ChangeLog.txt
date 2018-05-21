@@ -8,6 +8,12 @@
  * 2002-12-01 23:12 UTC+0100 Foo Bar <foo.bar@foobar.org>
  */
 
+2018-05-21 09:58 UTC-0300 Fernando Yurisich <fyurisich@oohg.org>
+   * oohg.github.io\ChangeLog.txt
+     * Updated.
+   * oohg.github.io\index.html
+     * Copyright updated.
+
 2018-05-01 10:36 UTC-0300 Fernando Yurisich <fyurisich@oohg.org>
    * oohg.github.io\ChangeLog.txt
      ! Typo.
