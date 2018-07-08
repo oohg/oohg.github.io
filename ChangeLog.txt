@@ -8,6 +8,16 @@
  * 2002-12-01 23:12 UTC+0100 Foo Bar <foo.bar@foobar.org>
  */
 
+2018-07-08 20:58 UTC-0300 Fernando Yurisich <fyurisich@oohg.org>
+   * oohg.github.io\ChangeLog.txt
+     * Updated.
+   * oohg.github.io\index.html
+     * New design + new logo + links to harbour and xharbour sites.
+   - oohg.github.io\oohg.ico
+   + oohg.github.io\oohg.png
+     ; Thanks to Miguel Juarez.
+   + oohg.github.io\xharbour.gif
+
 2018-06-05 13:55 UTC-0300 Fernando Yurisich <fyurisich@oohg.org>
    * oohg.github.io\ChangeLog.txt
      * Updated.
