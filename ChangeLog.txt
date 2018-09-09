@@ -8,9 +8,11 @@
  * 2002-12-01 23:12 UTC+0100 Foo Bar <foo.bar@foobar.org>
  */
 
+2018-09-08 21:56 UTC-0300 Fernando Yurisich <fyurisich@oohg.org>
+   * oohg.github.io\index.html
+     ! Added missing TITLE tag.
+
 2018-07-08 20:58 UTC-0300 Fernando Yurisich <fyurisich@oohg.org>
-   * oohg.github.io\ChangeLog.txt
-     * Updated.
    * oohg.github.io\index.html
      * New design + new logo + links to harbour and xharbour sites.
    - oohg.github.io\oohg.ico
@@ -19,25 +21,17 @@
    + oohg.github.io\xharbour.gif
 
 2018-06-05 13:55 UTC-0300 Fernando Yurisich <fyurisich@oohg.org>
-   * oohg.github.io\ChangeLog.txt
-     * Updated.
    * oohg.github.io\index.html
      + Reference to distros download site.
      + Reference to users' group.
 
 2018-05-21 09:58 UTC-0300 Fernando Yurisich <fyurisich@oohg.org>
-   * oohg.github.io\ChangeLog.txt
-     * Updated.
    * oohg.github.io\index.html
      * Copyright updated.
 
 2018-05-01 10:36 UTC-0300 Fernando Yurisich <fyurisich@oohg.org>
    * oohg.github.io\ChangeLog.txt
      ! Typo.
-
-2018-05-01 10:27 UTC-0300 Fernando Yurisich <fyurisich@oohg.org>
-   * oohg.github.io\ChangeLog.txt
-     * Updated.
 
 2017-10-22 21:04 UTC-0300 Fernando Yurisich <fyurisich@oohg.org>
    * oohg.github.io\index.html
