@@ -8,6 +8,10 @@
  * 2002-12-01 23:12 UTC+0100 Foo Bar <foo.bar@foobar.org>
  */
 
+2020-05-30 09:01 UTC-0300 Fernando Yurisich <fyurisich@oohg.org>
+   * oohg.github.io\index.html
+     * Copyright date updated.
+
 2019-03-23 10:53 UTC-0300 Fernando Yurisich <fyurisich@oohg.org>
    * oohg.github.io\index.html
      - Link to online manual because it's not working.
