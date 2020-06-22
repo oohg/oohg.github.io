@@ -5,6 +5,7 @@ OOHG is an object-oriented extended adaptation of the MiniGUI library for buildi
 Its 32 and 64 bits libraries offer an easy but yet powerfull way of adding a graphical user interface to your (x)Harbour applications under Windows.   
 
 <font size="+1">
+   
 ```
 #include "oohg.ch"
 
@@ -29,6 +30,7 @@ PROCEDURE Main
 
 RETURN
 ```
+
 </font>
 
 ![](hello.png)
