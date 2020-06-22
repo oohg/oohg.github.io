@@ -20,8 +20,9 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1 class="header" font-size: 1em;>{{ site.title | default: site.github.repository_name }}</h1>
-     
+        <h1 class="header">oohg.github.io</h1>
+        <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
+        
         <ul>
           {% if site.show_downloads %}
             <li class="download"><a class="buttons" href="{{ site.github.zip_url }}">Download ZIP</a></li>
